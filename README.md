@@ -5,4 +5,4 @@
 
 
 
-Fig(2a) Inference Network (Encoder) and Fig (2b) Model Network (Decoder), nodes representing distributions or stochastic processes should be colored blue. The architecture diagram should include: the transformer encoder, which processes x, t, and y into h; the inference network, which transforms h to z and generates µ and σ; the transformer decoder, which refines z into zweighted; and the generative model, which generates x, t, and y from zweighted.
+Fig(1a) Inference Network (Encoder) and Fig (1b) Model Network (Decoder), nodes representing distributions or stochastic processes should be colored blue. The architecture diagram should include: the transformer encoder, which processes x, t, and y into h; the inference network, which transforms h to z and generates µ and σ; the transformer decoder, which refines z into zweighted; and the generative model, which generates x, t, and y from zweighted.
